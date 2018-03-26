@@ -53,7 +53,7 @@ PM> Install-Package NetDimension.NanUI.XP
 Nuget.org搜索NanUI，然后根据需求来手动下载NanUI的Nuget包。如果不会用Nuget，请自己Google/Bing/Baidu，别来问我谢谢。
 
 ## 如何使用
-###使用流程图
+### 使用流程图
 ```
 graph TD
 A[新建Winfrom项目]-->B(使用Neget安装NanUI)
